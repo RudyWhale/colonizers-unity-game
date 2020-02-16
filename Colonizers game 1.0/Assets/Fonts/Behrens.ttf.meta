@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6ecb1fa53bb6381409e9b33a573a8b3e
+timeCreated: 1523460380
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Behrens Modern
+  fontNames:
+  - Behrens Modern
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
